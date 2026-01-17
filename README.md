@@ -16,7 +16,7 @@ Runium combines AI analysis with human coaching to help runners understand their
 
 Working on Omi ↔ PAI integration to bridge real-world conversations with AI-powered memory systems.
 
-**Visit:** [omi.me](https://www.omi.me/?ref=ELIFAYERMAN) | Use code `ELIFAYERMAN` for 10% off
+**Visit:** [omi.me](https://www.omi.me/?ref=ELIFAYERMAN) | **GitHub:** [BasedHardware/omi](https://github.com/BasedHardware/omi) | Use code `ELIFAYERMAN` for 10% off
 
 *(Affiliate link - I earn a small commission, which supports my open-source work.)*
 
