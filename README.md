@@ -11,6 +11,13 @@ Runium combines AI analysis with human coaching to help runners understand their
 
 **Visit:** [runium.ai](https://runium.ai)
 
+### 🎙️ [Omi](https://www.omi.me/?ref=ELIFAYERMAN)
+**AI Wearable for Memory & Conversations**
+
+Working on Omi ↔ PAI integration to bridge real-world conversations with AI-powered memory systems.
+
+Use code `ELIFAYERMAN` for 10% off. *(Affiliate link - I earn a small commission, which supports my open-source work.)*
+
 ---
 
 ## About Me
