@@ -24,7 +24,7 @@ Working on Omi ↔ PAI integration to bridge real-world conversations with AI-po
 
 ## 🛠️ Open Source & Contributions
 
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Architected native, local-first voice-to-text integration for Linux/macOS. Implemented low-latency audio capture (`sox`/`arecord`) and local Whisper transcription directly into the core CLI.
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Developed native voice input for Gemini CLI, enabling the command line to capture and transcribe human speech into commands. Stack: Linux on WSL2.
 - **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)**: Contributed Linux-specific audio subsystem support and integrated modular TTS providers.
 
 ---
