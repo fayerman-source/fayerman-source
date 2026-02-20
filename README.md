@@ -43,7 +43,6 @@ Working language-agnostically. The syntax changes; the intuition for how systems
 
 - CLI-first
 - Linux on WSL2
-- Build for durability
 
 **Currently:** Entirely focused on AI systems development and product building.
 **Also:** Youth track coach.
