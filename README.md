@@ -51,4 +51,4 @@ Working language-agnostically. The syntax changes; the intuition for how systems
 
 ### Let's Connect
 
-Building transparently. Open to connecting around AI, human performance, or the intersection of precision and growth. Open an issue or reach out.
+Open to connecting around AI, human performance, or the intersection of precision and growth. Open an issue or reach out.
