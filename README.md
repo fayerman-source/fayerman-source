@@ -1,15 +1,15 @@
 # Eli Fayerman
 
-Attorney and software developer. I build AI tools as a practice — the work is the offering, not the outcome.
+Attorney and software developer. Building software using AI tools as a practice. The work is the offering.
 
 ---
 
-### What I'm Building
+### Current Work
 
 🏃 **[Runium](https://runium.ai)**
 *AI-Augmented Coaching for Runners* | *"Human insight, harmonised with AI."*
 
-Runium pairs AI analysis with human coaching to help runners understand their training, optimize performance, and realize their potential. The premise is simple: human insight and machine analysis serve each other best when neither displaces the other.
+Runium pairs AI analysis with human coaching to help runners understand their training, optimize performance, and realize their potential. Human insight and machine analysis serve each other best when working in harmony.
 
 **Visit:** [runium.ai](https://runium.ai)
 
@@ -18,32 +18,32 @@ Runium pairs AI analysis with human coaching to help runners understand their tr
 🎙️ **[Omi](https://www.omi.me/?ref=ELIFAYERMAN)**
 *AI Wearable for Memory & Conversations*
 
-Working on Omi ↔ PAI integration — bridging real-world conversations with AI-powered memory systems.
+Working on Omi ↔ PAI integration: bridging real-world conversations with AI-powered memory systems.
 
 **Visit:** [omi.me](https://www.omi.me/?ref=ELIFAYERMAN) | **GitHub:** [BasedHardware/omi](https://github.com/BasedHardware/omi) | Use code `ELIFAYERMAN` for 10% off
-*(Affiliate link — a small commission that helps sustain this work.)*
+*(Affiliate link. A small commission that helps sustain this work.)*
 
 ---
 
 ### 🛠️ Open Source
 
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Native voice input for Gemini CLI — the command line captures and transcribes spoken commands directly. Stack: Linux on WSL2.
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Native voice input for Gemini CLI. The command line captures and transcribes spoken commands directly. Stack: Linux on WSL2.
 - **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)**: Linux-specific audio subsystem support and modular TTS provider integration.
 
 ---
 
 ### About
 
-I carry the roles of attorney, developer, and coach the way one carries tools — useful when the work calls for them, not as fixed identities.
+Roles and personalities are tools, used when the work calls for them.
 
 The legal training gave structure. Development gives it expression. Coaching keeps it grounded in the body and in real performance.
 
 **Technical approach:**
-I work language-agnostically. The syntax changes; the intuition for how systems ought to behave does not. Code is a fluid medium — shaped by clarity of thought, not memorized grammar.
+Working language-agnostically. The syntax changes; the intuition for how systems ought to behave does not. Code is a fluid medium, shaped by clarity of thought.
 
 - CLI-first
 - Linux on WSL2
-- Build for durability, not trend
+- Build for durability
 
 **Currently:** Entirely focused on AI systems development and product building.
 **Also:** Youth track coach.
@@ -52,4 +52,4 @@ I work language-agnostically. The syntax changes; the intuition for how systems 
 
 ### Let's Connect
 
-Building transparently. If you're working on AI, human performance, or anything at the intersection of precision and growth — open an issue or reach out.
+Building transparently. Open to connecting around AI, human performance, or the intersection of precision and growth. Open an issue or reach out.
