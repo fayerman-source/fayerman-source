@@ -6,15 +6,6 @@ Attorney and software developer. Building software using AI tools as a practice.
 
 ### Current Work
 
-🏃 **[Runium](https://runium.ai)**
-*AI-Augmented Coaching for Runners* | *"Human insight, harmonised with AI."*
-
-Runium pairs AI analysis with human coaching to help runners understand their training, optimize performance, and realize their potential. Human insight and machine analysis serve each other best when working in harmony.
-
-**Visit:** [runium.ai](https://runium.ai)
-
----
-
 🎙️ **[Omi](https://www.omi.me/?ref=ELIFAYERMAN)**
 *AI Wearable for Memory & Conversations*
 
@@ -22,6 +13,15 @@ Working on Omi ↔ PAI integration: bridging real-world conversations with AI-po
 
 **Visit:** [omi.me](https://www.omi.me/?ref=ELIFAYERMAN) | **GitHub:** [BasedHardware/omi](https://github.com/BasedHardware/omi) | Use code `ELIFAYERMAN` for 10% off
 *(Affiliate link. A small commission that helps sustain this work.)*
+
+---
+
+### Past Projects
+
+🏃 **[Runium](https://runium.ai)**
+*AI-Augmented Coaching for Runners*
+
+Built and sold. An AI coaching platform pairing machine analysis with human coaching for runners.
 
 ---
 
