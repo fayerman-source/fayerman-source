@@ -6,6 +6,11 @@ Attorney and software developer. Building software using AI tools as a practice.
 
 ### Current Work
 
+🪷 **[Shanta Yantra](https://github.com/fayerman-source/shanta-yantra)**
+*Reduce noise. Return to practice.*
+
+A restrained contemplative support system for clear observation, shorter sessions, and stronger return-to-practice behavior.
+
 🎙️ **[Omi](https://www.omi.me/?ref=ELIFAYERMAN)**
 *AI Wearable for Memory & Conversations*
 
