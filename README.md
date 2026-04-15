@@ -2,9 +2,7 @@
 
 Attorney and software engineer building AI tools.
 
-Currently building **[1mil.app](https://1mil.app)**, a platform based on the idea that overlooked business opportunities often sit in plain sight across markets, niches, and workflows.
-
-The goal is simple: make those opportunities easier to notice and act on.
+Currently building **[1mil.app](https://1mil.app)**, a platform for surfacing overlooked business opportunities across markets, niches, and workflows.
 
 ---
 
@@ -13,12 +11,12 @@ The goal is simple: make those opportunities easier to notice and act on.
 **[1mil.app](https://1mil.app)**  
 *Surface overlooked business opportunities.*
 
-A business opportunity discovery platform that surfaces ranked opportunities across markets, niches, and workflows using demand signals, operator fit, and structured discovery.
+Built around the idea that overlooked business opportunities often sit in plain sight. The goal is to make them easier to notice and act on.
 
 🪷 **[Shanta Yantra](https://github.com/fayerman-source/shanta-yantra)**  
 *Reduce noise. Return to practice.*
 
-A restrained contemplative support system for clear observation, shorter sessions, and stronger return-to-practice behavior.
+A restrained contemplative support system for clear observation and stronger return-to-practice behavior.
 
 ---
 
@@ -27,7 +25,7 @@ A restrained contemplative support system for clear observation, shorter session
 🏃 **[Runium](https://runium.ai)**  
 *AI-Augmented Coaching for Runners*
 
-Built and sold. An AI coaching platform pairing machine analysis with human coaching for runners.
+Built and sold. An AI coaching platform pairing machine analysis with human coaching.
 
 🎙️ **Omi ↔ PAI integration**
 
