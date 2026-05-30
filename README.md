@@ -2,13 +2,15 @@
 
 Attorney and software engineer building AI tools.
 
-Currently building **[1mil.app](https://1mil.app)**, a platform for surfacing overlooked business opportunities across markets, niches, and workflows.
+Currently building **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)** — AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
+
+**→ [Try it free — no signup required](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
 
 ---
 
 ### Current Work
 
-**[1mil.app](https://1mil.app)**  
+**[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**  
 *Surface overlooked business opportunities.*
 
 Built around the idea that overlooked business opportunities often sit in plain sight. The goal is to make them easier to notice and act on.
