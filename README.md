@@ -2,9 +2,9 @@
 
 Attorney and software engineer building AI tools.
 
-Currently building **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)** — AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
+Currently building **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**: AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
 
-**→ [Try it free — no signup required](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
+**→ [Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
 
 ---
 
@@ -14,6 +14,11 @@ Currently building **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=r
 *Surface overlooked business opportunities.*
 
 Built around the idea that overlooked business opportunities often sit in plain sight. The goal is to make them easier to notice and act on.
+
+📋 **[Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas)**  
+*140 real problem spaces worth building, refreshed monthly.*
+
+A public, curated list of operator pain points mined from across the web. Pick a problem and validate it in 1mil.app.
 
 🪷 **[Shanta Yantra](https://github.com/fayerman-source/shanta-yantra)**  
 *Reduce noise. Return to practice.*
