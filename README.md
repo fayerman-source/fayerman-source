@@ -2,7 +2,7 @@
 
 Attorney and software engineer building AI tools.
 
-Currently building **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**: AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
+Building and running **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)** in production: AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
 
 **→ [Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
 
@@ -24,6 +24,11 @@ A public, curated list of operator pain points mined from across the web. Pick a
 *Reduce noise. Return to practice.*
 
 A restrained contemplative support system for clear observation and stronger return-to-practice behavior.
+
+📹 **[Ring Camera Recorder](https://github.com/fayerman-source/ring-camera-recorder)**  
+*Record your Ring cameras locally, no subscription.*
+
+A self-hosted Node/TypeScript service that saves Ring live video to disk automatically on motion or doorbell events.
 
 ---
 
