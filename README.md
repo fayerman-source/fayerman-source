@@ -47,7 +47,7 @@ Worked on bridging real-world conversations with AI-powered memory systems.
 
 ### Open Source
 
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Merged fix for extension lifecycle events in the DebugProfiler ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also built native voice input with pluggable Gemini/Whisper backends ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)) before the project was wound down.
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Merged fix for extension lifecycle events in the DebugProfiler ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also built native voice input with pluggable Gemini and Whisper backends for Google's Gemini CLI ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)) before Google wound the project down.
 - **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)**: Linux-specific audio subsystem support and modular TTS provider integration.
 
 ---
