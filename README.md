@@ -10,6 +10,9 @@ Building and running **[1mil.app](https://1mil.app/?utm_source=github&utm_medium
 
 ### Current Work
 
+🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
+Looking for runners training for a half marathon or a marathon to test a free pilot. Unlike black-box AI chatbots or rigid static plans, it uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
+
 **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**  
 *Surface overlooked business opportunities.*
 
