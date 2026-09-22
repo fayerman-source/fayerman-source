@@ -16,7 +16,7 @@ Building and running **[1mil.app](https://1mil.app/?utm_source=github&utm_medium
 Built around the idea that overlooked business opportunities often sit in plain sight. The goal is to make them easier to notice and act on.
 
 📋 **[Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas)**  
-*140 real problem spaces worth building, refreshed monthly.*
+*371 real problem spaces worth building, refreshed monthly.*
 
 A public, curated list of operator pain points mined from across the web. Pick a problem and validate it in 1mil.app.
 
