@@ -1,32 +1,51 @@
 # Eli Fayerman
 
-Attorney and software engineer building AI tools.
-
-Building and running **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)** in production: AI that surfaces overlooked business opportunities, ranked to fit your background and backed by real market research.
-
-**→ [Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
+Attorney and software engineer. I build AI tools that cite their sources and software that makes its rules explicit.
 
 ---
 
 ### Current Work
 
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
-Looking for runners training for a half marathon or a marathon to test a free pilot. Unlike black-box AI chatbots or rigid static plans, it uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
+*Half and full marathon plans that explain every change.*
 
-**[1mil.app](https://1mil.app/?utm_source=github&utm_medium=referral&utm_campaign=profile)**  
-*Surface overlooked business opportunities.*
+Looking for runners training for a half marathon or a marathon to test a free pilot. It uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
 
-Built around the idea that overlooked business opportunities often sit in plain sight. The goal is to make them easier to notice and act on.
+💡 **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**  
+*Business opportunities matched to what you already know.*
+
+Describe your field and what you're good at, and it searches the live web for business opportunities that fit, then ranks them. The top five come with named competitors and checked prices, so you can see what already exists before you build. **[Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**
 
 📋 **[Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas)**  
-*371 real problem spaces worth building, refreshed monthly.*
+*Problems people describe in public, sorted by market.*
 
-A public, curated list of operator pain points mined from across the web. Pick a problem and validate it in 1mil.app.
+A public list of problem spaces drawn from discussions such as Reddit threads, each linked to the post it came from. Any idea on the list can be run through 1mil.app as a starting point for your own research.
 
-🪷 **[Shanta Yantra](https://github.com/fayerman-source/shanta-yantra)**  
-*Reduce noise. Return to practice.*
+⚖️ **[SERP-to-Spend](https://serptospend.com/?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend)**  
+*Ad review grounded in legal and platform sources.*
 
-A restrained contemplative support system for clear observation and stronger return-to-practice behavior.
+Reviews ad copy for Meta, Google, and TikTok against FTC, FDA, and platform rules, and drafts new ads from live Google results. Each verdict names the policy area and legal standard it applies, drawn from a curated source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
+
+Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. Pull requests to main must pass type checks, tests, a build, and static analysis. The source is private; happy to walk through it.
+
+---
+
+### Tools I've Published
+
+📈 **[Startup Growth Playbook](https://github.com/fayerman-source/startup-growth-playbook)**  
+*Distribution-first marketing, run by your coding agent.*
+
+Clone it into any startup repo and an LLM agent reads the codebase, picks the best 2 to 3 of 7 strategies, writes a plan with tasks and metrics, and produces the marketing artifacts.
+
+✍️ **[Deslop](https://github.com/fayerman-source/deslop)**  
+*Plain English for legal writing and AI prose.*
+
+An agent skill for Claude Code, Antigravity, and similar tools that rewrites legalese and verbose AI text into plain English, built on plain-language drafting rules in the tradition of Bryan Garner. It keeps legal terms of art intact.
+
+🧑‍💻 **[agent-team](https://github.com/fayerman-source/agent-team)**  
+*Run several Claude Code sessions as a small dev team.*
+
+A Claude Code plugin with roles (reviewer, coordinator, builders), a merge gate, and a hook that makes each session report where it stands. Its 31 rules are lessons from failures in real multi-session projects.
 
 📹 **[Ring Camera Recorder](https://github.com/fayerman-source/ring-camera-recorder)**  
 *Record your Ring cameras locally, no subscription.*
@@ -37,37 +56,34 @@ A self-hosted Node/TypeScript service that saves Ring live video to disk automat
 
 ### Previous Work
 
-🏃 **[Runium](https://runium.ai)**  
-*AI-Augmented Coaching for Runners*
+🏅 **[Runium](https://runium.ai)**  
+*An AI running coach with training-load limits built in.*
 
-Built and sold. An AI coaching platform pairing machine analysis with human coaching.
+Co-founded Runium and built its AI coach: a probabilistic coaching engine with deterministic rule-based constraints, plus a chat coach that uses the training schedule as context and can adjust it. Python, FastAPI, and React. It reached private beta; I've since sold my stake.
 
-🎙️ **Omi ↔ PAI integration**
-
-Worked on bridging real-world conversations with AI-powered memory systems.
+Also from the running side: **[Race Replay](https://fayerman-source.github.io/race-replay/)** ([source](https://github.com/fayerman-source/race-replay)), which turns static track results into an animated race replay.
 
 ---
 
 ### Open Source
 
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Merged fix for extension lifecycle events in the DebugProfiler ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also built native voice input with pluggable Gemini and Whisper backends for Google's Gemini CLI ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)) before Google wound the project down.
-- **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)**: Linux-specific audio subsystem support and modular TTS provider integration.
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Merged a fix that registers extension lifecycle events in the DebugProfiler ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Separately proposed native voice input with Gemini and Whisper backends ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)); it went through several rounds of maintainer review and was closed without merging.
+- **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
 
 ### About
 
-Writing production code at Thomson Reuters on financial data systems taught me to see software as infrastructure, not decoration. After law school, I spent five years as an attorney with the SBA, advising on federal lending programs, disaster relief, and regulatory compliance.
+I wrote production code at Thomson Reuters on financial data systems. After law school, I spent five years as an attorney with the SBA, advising on federal lending programs, disaster relief, and regulatory compliance.
 
-That blend of technical and legal work led me into applied AI, building systems for environments where continuity, trust, and real-world constraints matter.
+Both jobs shape how I build now. SERP-to-Spend draws on a curated source library checked against primary legal texts and published platform policies. RunningSchedule changes a training plan through a purely deterministic rule engine. And code changes go through review before they merge: required checks, automated reviewers, and, when several AI sessions work at once, agent-team's merge gate.
 
-The thread has stayed consistent: complex rules, real-world risk, and software that has to hold up in the real world.
-
-- CLI-first
-- Linux on WSL2
+Day to day: CLI-first, Linux on WSL2.
 
 ---
 
 ### Let's Connect
 
 Open to connecting around AI, business opportunity discovery, and the intersection of law, systems, and product building.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/efayerman/) or [X](https://x.com/SadhakaDev).
