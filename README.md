@@ -9,7 +9,9 @@ Attorney and software engineer. I build AI tools that cite their sources and sof
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
 *Half and full marathon plans that explain every change.*
 
-Looking for runners training for a half marathon or a marathon to test a free pilot. It uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
+[![Pilot testers wanted: half and full marathon runners](https://img.shields.io/badge/%F0%9F%8F%83%20pilot%20testers%20wanted-half%20%26%20full%20marathon%20runners-FFD500?style=for-the-badge&labelColor=1f2328)](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)
+
+**Looking for runners training for a half marathon or a marathon to test a free pilot.** It uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
 
 💡 **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**  
 *Business opportunities matched to what you already know.*
