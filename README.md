@@ -4,6 +4,13 @@ Attorney and software engineer. I build AI tools that cite their sources and sof
 
 ---
 
+### Open Source
+
+- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration and automated tests. Refined it through multiple rounds of maintainer review; the team ultimately shipped a separate implementation ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
+- **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
+
+---
+
 ### Current Work
 
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
@@ -64,13 +71,6 @@ A self-hosted Node/TypeScript service that saves Ring live video to disk automat
 Co-founded Runium and built its AI coach: a probabilistic coaching engine with deterministic rule-based constraints, plus a chat coach that uses the training schedule as context and can adjust it. Python, FastAPI, and React. It reached private beta; I've since sold my stake.
 
 Also from the running side: **[Race Replay](https://fayerman-source.github.io/race-replay/)** ([source](https://github.com/fayerman-source/race-replay)), which turns static track results into an animated race replay.
-
----
-
-### Open Source
-
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)**: Merged a fix that registers extension lifecycle events in the DebugProfiler ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Separately proposed native voice input with Gemini and Whisper backends ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)); it went through several rounds of maintainer review and was closed without merging.
-- **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
 
