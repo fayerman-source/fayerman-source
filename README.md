@@ -1,6 +1,6 @@
 # Eli Fayerman
 
-Attorney and software engineer. I build AI tools with cited sources and software with explicit rules.
+Attorney and software engineer building AI tools.
 
 ---
 
