@@ -4,6 +4,20 @@ Attorney and software engineer. I build AI tools that cite their sources and sof
 
 ---
 
+### Hackathons
+
+🔬 **[Five Sigma Review](https://github.com/fayerman-source/five-sigma-review)**: Gemini 4 NYC Hackathon, Nov 2026  
+*First-pass legal document review, with uncertain calls routed to a human.*
+
+Built in one day. Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
+
+🏦 **[Cross Border FBAR](https://github.com/fayerman-source/cross-border-fbar)**: Meta Global AI Developer Hackathon, Indie Developer Track, Nov 2026  
+*Foreign bank statements to FBAR figures, each linked to its source line.*
+
+A review tool for tax preparers whose clients have foreign bank accounts. Each statement page is transcribed with Muse Spark: Korean, German, and Thai statements, flatbed scans, and sideways phone photos. Every balance is then recomputed in code, and each account's highest balance is converted at the Treasury year-end rate. The preparer clicks any figure to see its source line, corrects misreads, and signs off. On a 49-page synthetic test set, 280 of 280 transaction rows were transcribed correctly. The same pages, run on a local GPU with Muse Glimmer, Meta's open-weights model, produced the same total, so statements can stay on the preparer's machine. [Demo video](https://youtu.be/BL4UVxhOP9Y) · [Live demo](https://sadhakadev-fbar-worksheet-demo.hf.space).
+
+---
+
 ### Open Source
 
 - **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration and automated tests. Refined it through multiple rounds of maintainer review; the team ultimately shipped a separate implementation ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
@@ -36,20 +50,6 @@ A public list of problem spaces drawn from discussions such as Reddit threads, e
 Reviews ad copy for Meta, Google, and TikTok against FTC, FDA, and platform rules, and drafts new ads from live Google results. Each verdict names the policy area and legal standard it applies, drawn from a curated source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
 
 Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. Pull requests to main must pass type checks, tests, a build, and static analysis. The source is private; happy to walk through it.
-
----
-
-### Hackathons
-
-🔬 **[Five Sigma Review](https://github.com/fayerman-source/five-sigma-review)**: Gemini 4 NYC Hackathon, Nov 2026  
-*First-pass legal document review, with uncertain calls routed to a human.*
-
-Built in one day. Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
-
-🏦 **[Cross Border FBAR](https://github.com/fayerman-source/cross-border-fbar)**: Meta Global AI Developer Hackathon, Indie Developer Track, Nov 2026  
-*Foreign bank statements to FBAR figures, each linked to its source line.*
-
-A review tool for tax preparers whose clients have foreign bank accounts. Each statement page is transcribed with Muse Spark: Korean, German, and Thai statements, flatbed scans, and sideways phone photos. Every balance is then recomputed in code, and each account's highest balance is converted at the Treasury year-end rate. The preparer clicks any figure to see its source line, corrects misreads, and signs off. On a 49-page synthetic test set, 280 of 280 transaction rows were transcribed correctly. The same pages, run on a local GPU with Muse Glimmer, Meta's open-weights model, produced the same total, so statements can stay on the preparer's machine. [Demo video](https://youtu.be/BL4UVxhOP9Y) · [Live demo](https://sadhakadev-fbar-worksheet-demo.hf.space).
 
 ---
 
