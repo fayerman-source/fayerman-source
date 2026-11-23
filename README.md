@@ -27,6 +27,13 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 
 ### Current Work
 
+⚖️ **[SERP-to-Spend](https://serptospend.com/?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend)**  
+*Ad review grounded in legal and platform sources.*
+
+Ad copy for Meta, Google, and TikTok is reviewed against FTC, FDA, and platform rules, and new ads are drafted from live Google results. Each verdict names the policy area and the legal standard applied, from a source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
+
+Built with Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. The source is private.
+
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
 *Half and full marathon plans, with every change explained.*
 
@@ -37,19 +44,7 @@ A free pilot for runners training for a half marathon or a marathon. Plans are a
 💡 **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**  
 *Business opportunities matched to what you already know.*
 
-Describe your field and what you're good at, and get a ranked list of matching business opportunities from a live web search. The top five come with named competitors and checked prices. **[Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**
-
-📋 **[Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas)**  
-*Problems people describe in public, sorted by market.*
-
-A public list of problem spaces drawn from discussions such as Reddit threads, each linked to its source post. Any idea on the list can be run through 1mil.app as a starting point for research.
-
-⚖️ **[SERP-to-Spend](https://serptospend.com/?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend)**  
-*Ad review grounded in legal and platform sources.*
-
-Ad copy for Meta, Google, and TikTok is reviewed against FTC, FDA, and platform rules, and new ads are drafted from live Google results. Each verdict names the policy area and the legal standard applied, from a source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
-
-Built with Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. The source is private.
+Describe your field and what you're good at, and get a ranked list of matching business opportunities from a live web search. The top five come with named competitors and checked prices. A companion public list, [Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas), collects problems people describe in public, each linked to its source post.
 
 ---
 
