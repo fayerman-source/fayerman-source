@@ -9,7 +9,7 @@ Attorney and software engineer building AI tools.
 🔬 **[Five Sigma Review](https://github.com/fayerman-source/five-sigma-review)**: Gemini 4 NYC Hackathon, Nov 2026  
 *First-pass legal document review, with uncertain calls routed to a human.*
 
-Built in one day. Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
+Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
 
 🏦 **[Cross Border FBAR](https://github.com/fayerman-source/cross-border-fbar)**: Meta Global AI Developer Hackathon, Indie Developer Track, Nov 2026  
 *Foreign bank statements to FBAR figures, each linked to its source line.*
