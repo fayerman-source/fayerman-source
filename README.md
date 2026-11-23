@@ -7,7 +7,7 @@ Attorney and software engineer building AI tools.
 ### Hackathons
 
 🔬 **[Five Sigma Review](https://github.com/fayerman-source/five-sigma-review)**: Gemini 4 NYC Hackathon, Nov 2026  
-*First-pass legal document review, with uncertain calls routed to a human.*
+*First-pass legal document review, with uncertain calls routed to a human reviewer.*
 
 Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
 
@@ -20,7 +20,7 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 
 ### Open Source
 
-- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration and automated tests, refined through multiple rounds of maintainer review ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
+- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed, and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration, and automated tests, refined through multiple rounds of maintainer review ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
 - **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
@@ -95,6 +95,6 @@ Day to day: CLI-first, Linux on WSL2.
 
 ### Let's Connect
 
-Open to connecting about AI, legal engineering, and business opportunity discovery.
+Open to connecting about AI and legal engineering.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/efayerman/) or [X](https://x.com/SadhakaDev).
