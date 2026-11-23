@@ -11,7 +11,7 @@ Attorney and software engineer building AI tools.
 
 Each scanned page is transcribed, and each call (responsive, which request, privileged) is given a probability. A supporting quote is extracted for each call and matched against the page. A document is coded automatically only when the confidence is high and the quote matches. Every other document is routed to a human reviewer, with the reason. On 76 degraded Enron scans, 35 were coded automatically, and no labeler disputed a responsiveness or privilege call on any of those 35. The labels were made by models, not attorneys. [Demo video](https://youtu.be/DxOfqChEowc).
 
-🏦 **[Cross Border FBAR](https://github.com/fayerman-source/cross-border-fbar)**: Meta Global AI Developer Hackathon, Indie Developer Track, Nov 2026  
+🏦 **[Cross Border FBAR](https://github.com/fayerman-source/cross-border-fbar)**: Meta Global AI Developer Hackathon, Indie Developer Track, Oct 2026  
 *Foreign bank statements to FBAR figures, each linked to its source line.*
 
 A review tool for tax preparers whose clients have foreign bank accounts. Each statement page is transcribed with Muse Spark: Korean, German, and Thai statements, flatbed scans, and sideways phone photos. Every balance is then recomputed in code, and each account's highest balance is converted at the Treasury year-end rate. The preparer clicks any figure to see its source line, corrects misreads, and signs off. On a 49-page synthetic test set, 280 of 280 transaction rows were transcribed correctly. The same pages, run on a local GPU with Muse Glimmer, Meta's open-weights model, produced the same total, so statements can stay on the preparer's machine. [Demo video](https://youtu.be/BL4UVxhOP9Y) · [Live demo](https://sadhakadev-fbar-worksheet-demo.hf.space).
@@ -20,7 +20,7 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 
 ### Open Source
 
-- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed, and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration, and automated tests, refined through multiple rounds of maintainer review ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
+- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Merged a fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also proposed, designed, and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration, and automated tests, refined through multiple rounds of maintainer review.
 - **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
@@ -37,7 +37,7 @@ Built with Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude a
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
 *Half and full marathon plans, with every change explained.*
 
-[![Pilot testers wanted: half and full marathon runners](https://img.shields.io/badge/%F0%9F%8F%83%20pilot%20testers%20wanted-half%20%26%20full%20marathon%20runners-FFD500?style=for-the-badge&labelColor=1f2328)](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)
+[![Pilot testers wanted: half and full marathon runners](https://img.shields.io/badge/%F0%9F%8F%83%20pilot%20testers%20wanted-half%20%26%20full%20marathon%20runners-FFD500?style=flat&labelColor=1f2328)](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)
 
 A free pilot for runners training for a half marathon or a marathon. Plans are adjusted by a deterministic rule engine, and each change comes with a plain-English reason. If you try it, tell me where the plan gets things wrong.
 
