@@ -1,6 +1,6 @@
 # Eli Fayerman
 
-Attorney and software engineer. I build AI tools that cite their sources and software that makes its rules explicit.
+Attorney and software engineer. I build AI tools with cited sources and software with explicit rules.
 
 ---
 
@@ -20,7 +20,7 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 
 ### Open Source
 
-- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration and automated tests. Refined it through multiple rounds of maintainer review; the team ultimately shipped a separate implementation ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
+- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Proposed, designed and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration and automated tests, refined through multiple rounds of maintainer review ([#18499](https://github.com/google-gemini/gemini-cli/pull/18499)). Also contributed a merged fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)).
 - **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
@@ -28,28 +28,28 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 ### Current Work
 
 🏃 **[RunningSchedule.com](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)**  
-*Half and full marathon plans that explain every change.*
+*Half and full marathon plans, with every change explained.*
 
 [![Pilot testers wanted: half and full marathon runners](https://img.shields.io/badge/%F0%9F%8F%83%20pilot%20testers%20wanted-half%20%26%20full%20marathon%20runners-FFD500?style=for-the-badge&labelColor=1f2328)](https://runningschedule.com/?utm_source=github&utm_medium=profile&utm_campaign=pilot)
 
-**Looking for runners training for a half marathon or a marathon to test a free pilot.** It uses a transparent, deterministic rule engine that re-plans from evidence and explains every change in plain English. If you try it, reach out to tell me where the plan gets things wrong or misses something.
+A free pilot for runners training for a half marathon or a marathon. Plans are adjusted by a deterministic rule engine, and each change comes with a plain-English reason. If you try it, tell me where the plan gets things wrong.
 
 💡 **[1mil.app](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**  
 *Business opportunities matched to what you already know.*
 
-Describe your field and what you're good at, and it searches the live web for business opportunities that fit, then ranks them. The top five come with named competitors and checked prices, so you can see what already exists before you build. **[Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**
+Describe your field and what you're good at, and get a ranked list of matching business opportunities from a live web search. The top five come with named competitors and checked prices. **[Try it free, no signup required](https://1mil.app/?utm_source=github&utm_medium=profile&utm_campaign=1mil)**
 
 📋 **[Startup Ideas Worth Building](https://github.com/fayerman-source/startup-ideas)**  
 *Problems people describe in public, sorted by market.*
 
-A public list of problem spaces drawn from discussions such as Reddit threads, each linked to the post it came from. Any idea on the list can be run through 1mil.app as a starting point for your own research.
+A public list of problem spaces drawn from discussions such as Reddit threads, each linked to its source post. Any idea on the list can be run through 1mil.app as a starting point for research.
 
 ⚖️ **[SERP-to-Spend](https://serptospend.com/?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend)**  
 *Ad review grounded in legal and platform sources.*
 
-Reviews ad copy for Meta, Google, and TikTok against FTC, FDA, and platform rules, and drafts new ads from live Google results. Each verdict names the policy area and legal standard it applies, drawn from a curated source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
+Ad copy for Meta, Google, and TikTok is reviewed against FTC, FDA, and platform rules, and new ads are drafted from live Google results. Each verdict names the policy area and the legal standard applied, from a source library checked against primary legal texts and published platform policies. See [how the grounding works](https://serptospend.com/how-it-works?utm_source=github&utm_medium=profile&utm_campaign=serp-to-spend).
 
-Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. Pull requests to main must pass type checks, tests, a build, and static analysis. The source is private; happy to walk through it.
+Built with Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an alternate provider. The source is private.
 
 ---
 
@@ -58,22 +58,22 @@ Next.js 15, TypeScript, Clerk, and Gemini on Vertex AI, with Claude as an altern
 📈 **[Startup Growth Playbook](https://github.com/fayerman-source/startup-growth-playbook)**  
 *Distribution-first marketing, run by your coding agent.*
 
-Clone it into any startup repo and an LLM agent reads the codebase, picks the best 2 to 3 of 7 strategies, writes a plan with tasks and metrics, and produces the marketing artifacts.
+Clone it into any startup repo and run it with a coding agent. The output is a plan built on the best 2 to 3 of 7 strategies for that codebase, with tasks, metrics, and the marketing artifacts.
 
 ✍️ **[Deslop](https://github.com/fayerman-source/deslop)**  
 *Plain English for legal writing and AI prose.*
 
-An agent skill for Claude Code, Antigravity, and similar tools that rewrites legalese and verbose AI text into plain English, built on plain-language drafting rules in the tradition of Bryan Garner. It keeps legal terms of art intact.
+An agent skill for Claude Code, Antigravity, and similar tools, for rewriting legalese and verbose AI text in plain English. It is built on plain-language drafting rules in the tradition of Bryan Garner, and legal terms of art stay intact.
 
 🧑‍💻 **[agent-team](https://github.com/fayerman-source/agent-team)**  
 *Run several Claude Code sessions as a small dev team.*
 
-A Claude Code plugin with roles (reviewer, coordinator, builders), a merge gate, and a hook that makes each session report where it stands. Its 31 rules are lessons from failures in real multi-session projects.
+A Claude Code plugin with roles (reviewer, coordinator, builders), a merge gate, and a status report required from each session. Its 31 rules come from failures in real multi-session projects.
 
 📹 **[Ring Camera Recorder](https://github.com/fayerman-source/ring-camera-recorder)**  
 *Record your Ring cameras locally, no subscription.*
 
-A self-hosted Node/TypeScript service that saves Ring live video to disk automatically on motion or doorbell events.
+A self-hosted Node/TypeScript service for saving Ring live video to disk on motion or doorbell events.
 
 ---
 
@@ -82,9 +82,9 @@ A self-hosted Node/TypeScript service that saves Ring live video to disk automat
 🏅 **[Runium](https://runium.ai)**  
 *An AI running coach with training-load limits built in.*
 
-Co-founded Runium and built its AI coach: a probabilistic coaching engine with deterministic rule-based constraints, plus a chat coach that uses the training schedule as context and can adjust it. Python, FastAPI, and React. It reached private beta; I've since sold my stake.
+Co-founded Runium and built its AI coach: a probabilistic coaching engine with deterministic rule-based constraints, plus a chat interface with the training schedule as context, where the schedule can be adjusted. Python, FastAPI, and React. It reached private beta; I've since sold my stake.
 
-Also from the running side: **[Race Replay](https://fayerman-source.github.io/race-replay/)** ([source](https://github.com/fayerman-source/race-replay)), which turns static track results into an animated race replay.
+Also from the running side: **[Race Replay](https://fayerman-source.github.io/race-replay/)** ([source](https://github.com/fayerman-source/race-replay)), an animated race replay built from static track results.
 
 ---
 
@@ -92,7 +92,7 @@ Also from the running side: **[Race Replay](https://fayerman-source.github.io/ra
 
 I wrote production code at Thomson Reuters on financial data systems. After law school, I spent five years as an attorney with the SBA, advising on federal lending programs, disaster relief, and regulatory compliance.
 
-Both jobs shape how I build now. SERP-to-Spend draws on a curated source library checked against primary legal texts and published platform policies. RunningSchedule changes a training plan through a purely deterministic rule engine. And code changes go through review before they merge: required checks, automated reviewers, and, when several AI sessions work at once, agent-team's merge gate.
+Both jobs shape how I build: legal sources are checked against primary texts, rules are deterministic where they can be, and code changes go through review before they merge.
 
 Day to day: CLI-first, Linux on WSL2.
 
@@ -100,6 +100,6 @@ Day to day: CLI-first, Linux on WSL2.
 
 ### Let's Connect
 
-Open to connecting around AI, business opportunity discovery, and the intersection of law, systems, and product building.
+Open to connecting about AI, legal engineering, and business opportunity discovery.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/efayerman/) or [X](https://x.com/SadhakaDev).
