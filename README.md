@@ -20,8 +20,15 @@ A review tool for tax preparers whose clients have foreign bank accounts. Each s
 
 ### Open Source
 
-- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Merged a fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also proposed, designed, and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration, and automated tests, refined through multiple rounds of maintainer review.
-- **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** (formerly Personal AI Infrastructure): Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
+🎙️ **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)**  
+*Google's command-line coding agent.*
+
+Merged a fix for false profiler warnings during extension startup ([#20101](https://github.com/google-gemini/gemini-cli/pull/20101)). Also proposed, designed, and implemented native voice input with Gemini and local Whisper backends, recording controls, authentication integration, and automated tests, refined through multiple rounds of maintainer review.
+
+🧩 **[LifeOS](https://github.com/danielmiessler/LifeOS)**  
+*Daniel Miessler's personal AI infrastructure project.*
+
+Merged a Google Cloud TTS voice provider ([#285](https://github.com/danielmiessler/LifeOS/pull/285)) and Linux compatibility fixes ([#288](https://github.com/danielmiessler/LifeOS/pull/288)).
 
 ---
 
